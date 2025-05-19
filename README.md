@@ -1,5 +1,6 @@
 # Password-Generator
-
+Time-complexity O(N)
+<br>Storage-complexity O(N) <hr>
 <B> A project used for creating a random password fulfilling the general criteria of creating a secure password: </B>
 <br> At least 1 uppercase letter (A-Z)
 <br> At least 1 lowercase letter (a-z)
