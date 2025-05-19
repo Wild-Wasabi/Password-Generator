@@ -1,6 +1,6 @@
 # Password-Generator
 
-A project used for creating a random password fulfilling the general criteria of creating a secure password:
+# A project used for creating a random password fulfilling the general criteria of creating a secure password:
 At least 1 uppercase letter (A-Z)
 At least 1 lowercase letter (a-z)
 At least 1 digit (0-9)
